@@ -1,1 +1,0 @@
-https://github.com/GigaDevelopper/VirtualCalc/commit/def3c9aeb405f5c08033e762e089a8776c4a4ef0
