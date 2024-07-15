@@ -1,7 +1,7 @@
 # opencv_calculator
 This repository contains the code for a simple calculator that uses Computer Vision to calculate simple arithmetics.
 
-##Installation
+## Installation
 
 **Clone the repository:**
 
