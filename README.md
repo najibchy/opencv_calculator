@@ -4,8 +4,8 @@ This repository contains the code for a simple calculator that uses Computer Vis
 ##Installation
 **Clone the repository:**
 
-'''bash
+```bash
 git clone https://github.com/your-username/opencv_calculator.git
 cd opencv_calculator
-'''
+```
 
